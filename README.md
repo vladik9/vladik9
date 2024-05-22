@@ -1,4 +1,5 @@
-## Hi there 👋
+
+Hi there 👋
 
 I am 🧔‍♂️ a software developer and researcher with a robust telecommunications
 and computer systems networking background,
