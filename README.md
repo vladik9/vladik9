@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Vlad
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Vlad
 ==========================
 
-Software Engeneer
+Software Engineer
 ------------------
 
-I am 🧔‍♂️ a software engeneer and researcher with a robust telecommunications and computer systems networking background, working with various technologies and frameworks, delivering optimized and client-centric 👥 solutions, and staying current with emerging tools 🧰 in the software development landscape.
+I am 🧔‍♂️ a software engineer and researcher with a robust telecommunications and computer systems networking background, working with various technologies and frameworks, delivering optimized and client-centric 👥 solutions, and staying current with emerging tools 🧰 in the software development landscape.
 
 * 🌍  I'm based in Romania
 * ✉️  You can contact me at [v.cornici@gmail.com](mailto:v.cornici@gmail.com)
