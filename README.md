@@ -23,7 +23,7 @@
 ## 🎯 About Me
 
 ```bash
-const vlad = {
+const vladik = {
     role: "Software Engineer & Researcher",
     background: "Telecommunications & Computer Systems Networking",
     workStyle: "Remote-first | Client-centric | Innovation-driven",
