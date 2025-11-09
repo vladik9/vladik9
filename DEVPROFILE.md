@@ -42,9 +42,7 @@ const vlad = {
 
 | Metric                  | Detail                                                                        |
 | ----------------------- | ----------------------------------------------------------------------------- |
-| **Role**          | Senior Software Engineer / Product-minded maker                               |
 | **Experience**    | 5+ years, 15 production builds, 10+ clients, 100% delivery rate               |
-| **Location**      | Suceava, Romania — fully remote                                              |
 | **Response SLAs** | First reply in 6h, detailed plan in 24–48h                                   |
 | **Superpower**    | Blending motion-rich UX, multilingual storytelling, and full-stack automation |
 
@@ -64,16 +62,65 @@ const vlad = {
 
 ## 🛠️ Tech Palette
 
-| Stack                  | Icons                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages**    | `<img src="https://raw.githubusercontent.com/vladik9/public/icons/skills/javascript-colored.svg" width="32" />` `<img src="public/icons/skills/typescript-colored.svg" width="32" />` `<img src="public/icons/skills/java-colored.svg" width="32" />` `<img src="public/icons/skills/python-colored.svg" width="32" />` `<img src="public/icons/skills/c-colored.svg" width="32" />` `<img src="public/icons/skills/cplusplus-colored.svg" width="32" />` |
-| **Frontend**     | `<img src="public/icons/skills/react-colored.svg" width="32" />` `<img src="public/icons/skills/nextjs.svg" width="32" />` `<img src="public/icons/skills/tailwindcss-colored.svg" width="32" />` `<img src="public/icons/skills/shadcnui.svg" width="32" />` `<img src="public/icons/skills/mui.svg" width="32" />`                                                                                                                                        |
-| **Backend**      | `<img src="public/icons/skills/nodejs-colored.svg" width="32" />` `<img src="public/icons/skills/nestjs-colored.svg" width="32" />` `<img src="public/icons/skills/express.svg" width="32" />` `<img src="public/icons/skills/springboot-colored.svg" width="32" />` `<img src="public/icons/skills/socket-io.svg" width="32" />`                                                                                                                           |
-| **Data & Infra** | `<img src="public/icons/skills/mongodb-colored.svg" width="32" />` `<img src="public/icons/skills/mysql-colored.svg" width="32" />` `<img src="public/icons/skills/postgresql-colored.svg" width="32" />` `<img src="public/icons/skills/docker-colored.svg" width="32" />` `<img src="public/icons/skills/aws.svg" width="32" />`                                                                                                                          |
-
-> _Icons live under `public/icons/skills/*` for consistency across README variants._
+| Stack                  | Icons                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**    | <img src="public/icons/skills/react-colored.svg" width="32" /> <img src="public/icons/skills/typescript-colored.svg" width="32" /> <img src="public/icons/skills/java-colored.svg" width="32" /> <img src="public/icons/skills/python-colored.svg" width="32" /> <img src="public/icons/skills/c-colored.svg" width="32" />  <img src="public/icons/skills/cplusplus-colored.svg" width="32" /> |
+| **Frontend**     | <img src="public/icons/skills/react-colored.svg" width="32" /> <img src="public/icons/skills/nextjs.svg" width="32" /> <img src="public/icons/skills/tailwindcss-colored.svg" width="32" /> <img src="public/icons/skills/shadcnui.svg" width="32" /> <img src="public/icons/skills/mui.svg" width="32" />                                                                                                   |
+| **Backend**      | <img src="public/icons/skills/nodejs-colored.svg" width="32" /> <img src="public/icons/skills/nestjs-colored.svg" width="32" /> <img src="public/icons/skills/express.svg" width="32" /> <img src="public/icons/skills/springboot-colored.svg" width="32" /> <img src="public/icons/skills/socket-io.svg" width="32" />                                                                                      |
+| **Data & Infra** | <img src="public/icons/skills/mongodb-colored.svg" width="32" /> <img src="public/icons/skills/mysql-colored.svg" width="32" /> <img src="public/icons/skills/postgresql-colored.svg" width="32" /> <img src="public/icons/skills/docker-colored.svg" width="32" /> <img src="public/icons/skills/aws.svg" width="32" />                                                                                     |
 
 ---
+
+
+### Core Languages & Frameworks
+
+| Technology | Icon                                                                                                                                                                                                                                                                                                      |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| JavaScript | <img src="public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />                                                                                                                                         |
+| TypeScript | <img src="public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />                                                                                                                                         |
+| Python     | <img src="public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />                                                                                                                                                 |
+| Java       | <img src="public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />                                                                                                                                                     |
+| C/C++      | <img src="public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /> <img src="public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /> |
+
+### Frontend Development
+
+| Technology           | Icon                                                                                                                                                                 |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| React / React Native | <img src="public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />              |
+| Next.js              | <img src="public/icons/skills/nextjs.svg" width="36" height="36" alt="Next.js" />                   |
+| Vue.js               | <img src="public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue.js" />             |
+| HTML5                | <img src="public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />              |
+| CSS3                 | <img src="public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />                |
+| Tailwind CSS         | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" />` |
+| Redux                | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />`              |
+| Material UI          | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/mui.svg" width="36" height="36" alt="Material UI" />`                  |
+| Shadcn UI            | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/shadcnui.svg" width="36" height="36" alt="Shadcn UI" />`               |
+
+### Backend Development
+
+| Technology  | Icon                                                                                                                                                               |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Node.js     | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />`         |
+| Express     | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/express.svg" width="36" height="36" alt="Express" />`                |
+| NestJS      | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" />`          |
+| FastAPI     | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" />`        |
+| Spring Boot | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/springboot-colored.svg" width="36" height="36" alt="Spring Boot" />` |
+| GraphQL     | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" />`        |
+| Socket.io   | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/socket-io.svg" width="36" height="36" alt="Socket.io" />`            |
+
+### Databases & DevOps
+
+| Technology    | Icon                                                                                                                                                                   |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| MongoDB       | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />`            |
+| MySQL         | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />`                |
+| PostgreSQL    | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />`      |
+| Docker        | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />`              |
+| AWS           | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/aws.svg" width="36" height="36" alt="AWS" />`                            |
+| Google Cloud  | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />`   |
+| Digital Ocean | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" />` |
+| Git           | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />`                    |
+
 
 ## 📦 Signature Builds
 
