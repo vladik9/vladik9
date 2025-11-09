@@ -50,15 +50,6 @@ const vlad = {
 
 ---
 
-## 🔭 Focus Areas
-
-- **Product & Frontend Craft** — Next.js 15 + React 19, Tailwind 4 tokens, Framer Motion flourishes, Radix primitives, animated particles.
-- **Backend & Ops** — Node/Nest APIs, Nodemailer workflows, rate-limited serverless endpoints, SMTP/Calendly integrations.
-- **AI & Conversation** — Embedded chat modal wired to custom RAG endpoints (`NEXT_PUBLIC_CHAT_URL` + dataset orchestration).
-- **Global Readiness** — Language provider + vocabulary matrix (EN/RO/RU) and theme state machine for tailored experiences.
-- **Automation** — Quote/contact/chat forms share validation, honeypot spam traps, confirmation modals, and analytics instrumentation.
-
----
 
 ## 🛠️ Tech Palette
 
@@ -71,58 +62,7 @@ const vlad = {
 
 ---
 
-
-### Core Languages & Frameworks
-
-| Technology | Icon                                                                                                                                                                                                                                                                                                      |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| JavaScript | <img src="public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />                                                                                                                                         |
-| TypeScript | <img src="public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />                                                                                                                                         |
-| Python     | <img src="public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />                                                                                                                                                 |
-| Java       | <img src="public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />                                                                                                                                                     |
-| C/C++      | <img src="public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /> <img src="public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /> |
-
-### Frontend Development
-
-| Technology           | Icon                                                                                                                                                                 |
-| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| React / React Native | <img src="public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />              |
-| Next.js              | <img src="public/icons/skills/nextjs.svg" width="36" height="36" alt="Next.js" />                   |
-| Vue.js               | <img src="public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue.js" />             |
-| HTML5                | <img src="public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />              |
-| CSS3                 | <img src="public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />                |
-| Tailwind CSS         | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" />` |
-| Redux                | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />`              |
-| Material UI          | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/mui.svg" width="36" height="36" alt="Material UI" />`                  |
-| Shadcn UI            | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/shadcnui.svg" width="36" height="36" alt="Shadcn UI" />`               |
-
-### Backend Development
-
-| Technology  | Icon                                                                                                                                                               |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Node.js     | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />`         |
-| Express     | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/express.svg" width="36" height="36" alt="Express" />`                |
-| NestJS      | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" />`          |
-| FastAPI     | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" />`        |
-| Spring Boot | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/springboot-colored.svg" width="36" height="36" alt="Spring Boot" />` |
-| GraphQL     | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" />`        |
-| Socket.io   | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/socket-io.svg" width="36" height="36" alt="Socket.io" />`            |
-
-### Databases & DevOps
-
-| Technology    | Icon                                                                                                                                                                   |
-| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| MongoDB       | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />`            |
-| MySQL         | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />`                |
-| PostgreSQL    | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />`      |
-| Docker        | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />`              |
-| AWS           | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/aws.svg" width="36" height="36" alt="AWS" />`                            |
-| Google Cloud  | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />`   |
-| Digital Ocean | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" />` |
-| Git           | `<img src="https://raw.githubusercontent.com/vladik9/is-a-dev-site/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />`                    |
-
-
-## 📦 Signature Builds
+## 📦 Signature Builds Projects
 
 | Project                           | Stack & Impact                                                                                                                           |
 | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -133,19 +73,10 @@ const vlad = {
 | **School Management Suite** | MySQL-backed admin console for classes, documents, and grading—lean data models, strong role workflows.                                 |
 | **Node WebSocket Metrics**  | Node.js + WebSocket + Arduino/ESP32/MongoDB. Captures biometric sensor data, proving fluency with hardware-to-cloud pipelines.           |
 
-_More showcased inside `components/projects.tsx` with GIF previews and technology badges._
 
 ---
 
-## 🧠 Working Style
 
-- **Experience-driven content design** — Centralized persona data (`lib/info.ts`) + vocabulary dictionary keep copy and stats in sync.
-- **Motion + Accessibility** — Scroll-aware nav, typewriter hero, animated particles, and Framer Motion micro-interactions calibrated for performance.
-- **Safety nets** — Honeypot fields, rate-limited `/api/send-email`, structured Nodemailer templates, and confirmation modals keep inbound channels clean.
-- **Automation-first** — Quote form couples Calendly entry points, consent toggles, budget/timeline matrices, and services checklists for instant brief clarity.
-- **Analytics-ready** — Vercel Analytics embedded in `app/layout.tsx` plus environment-based chat endpoints ensure each launch is measurable.
-
----
 
 ## 📈 GitHub Analytics
 
@@ -179,16 +110,6 @@ _More showcased inside `components/projects.tsx` with GIF previews and technolog
 
 ---
 
-## 📘 Profile Playbook (Best Practices)
-
-- **Tell a story visually** — Hero imagery, icon tables, and stat cards mirror the site’s animated sections.
-- **Automate every contact surface** — Share code for honeypots, rate limits, and email templates so teams see operational maturity.
-- **Expose personalization knobs** — Theme + language providers let clients imagine their own locale/brand overlays.
-- **Highlight collaboration flows** — Calendly CTAs, chat assistant, and quote forms illustrate how easy it is to start working with Vlad.
-- **Document SLAs & values** — Publishing response times and success metrics builds trust before the first call.
-
----
-
 ## 📬 Ready to Talk?
 
 <div align="center">
@@ -206,5 +127,4 @@ _More showcased inside `components/projects.tsx` with GIF previews and technolog
     <img src="https://komarev.com/ghpvc/?username=vladik9&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
     </a>
   </p>
-  <p>Prefer async? Ping the chat assistant on the site or drop a note—Vlad replies fast.</p>
 </div>
