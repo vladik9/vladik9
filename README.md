@@ -22,7 +22,7 @@
 
 ## 🎯 About Me
 
-```
+```bash
 const vlad = {
     role: "Software Engineer & Researcher",
     background: "Telecommunications & Computer Systems Networking",
@@ -50,15 +50,14 @@ const vlad = {
 
 ---
 
-
 ## 🛠️ Tech Palette
 
-| Stack                  | Icons                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages**    | <img src="public/icons/skills/react-colored.svg" width="32" /> <img src="public/icons/skills/typescript-colored.svg" width="32" /> <img src="public/icons/skills/java-colored.svg" width="32" /> <img src="public/icons/skills/python-colored.svg" width="32" /> <img src="public/icons/skills/c-colored.svg" width="32" />  <img src="public/icons/skills/cplusplus-colored.svg" width="32" /> |
-| **Frontend**     | <img src="public/icons/skills/react-colored.svg" width="32" /> <img src="public/icons/skills/nextjs.svg" width="32" /> <img src="public/icons/skills/tailwindcss-colored.svg" width="32" /> <img src="public/icons/skills/shadcnui.svg" width="32" /> <img src="public/icons/skills/mui.svg" width="32" />                                                                                                   |
-| **Backend**      | <img src="public/icons/skills/nodejs-colored.svg" width="32" /> <img src="public/icons/skills/nestjs-colored.svg" width="32" /> <img src="public/icons/skills/express.svg" width="32" /> <img src="public/icons/skills/springboot-colored.svg" width="32" /> <img src="public/icons/skills/socket-io.svg" width="32" />                                                                                      |
-| **Data & Infra** | <img src="public/icons/skills/mongodb-colored.svg" width="32" /> <img src="public/icons/skills/mysql-colored.svg" width="32" /> <img src="public/icons/skills/postgresql-colored.svg" width="32" /> <img src="public/icons/skills/docker-colored.svg" width="32" /> <img src="public/icons/skills/aws.svg" width="32" />                                                                                     |
+| Stack                  | Icons                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**    | `<img src="public/icons/skills/react-colored.svg" width="32" />` `<img src="public/icons/skills/typescript-colored.svg" width="32" />` `<img src="public/icons/skills/java-colored.svg" width="32" />` `<img src="public/icons/skills/python-colored.svg" width="32" />` `<img src="public/icons/skills/c-colored.svg" width="32" />`  `<img src="public/icons/skills/cplusplus-colored.svg" width="32" />` |
+| **Frontend**     | `<img src="public/icons/skills/react-colored.svg" width="32" />` `<img src="public/icons/skills/nextjs.svg" width="32" />` `<img src="public/icons/skills/tailwindcss-colored.svg" width="32" />` `<img src="public/icons/skills/shadcnui.svg" width="32" />` `<img src="public/icons/skills/mui.svg" width="32" />`                                                                                          |
+| **Backend**      | `<img src="public/icons/skills/nodejs-colored.svg" width="32" />` `<img src="public/icons/skills/nestjs-colored.svg" width="32" />` `<img src="public/icons/skills/express.svg" width="32" />` `<img src="public/icons/skills/springboot-colored.svg" width="32" />` `<img src="public/icons/skills/socket-io.svg" width="32" />`                                                                             |
+| **Data & Infra** | `<img src="public/icons/skills/mongodb-colored.svg" width="32" />` `<img src="public/icons/skills/mysql-colored.svg" width="32" />` `<img src="public/icons/skills/postgresql-colored.svg" width="32" />` `<img src="public/icons/skills/docker-colored.svg" width="32" />` `<img src="public/icons/skills/aws.svg" width="32" />`                                                                            |
 
 ---
 
@@ -73,10 +72,7 @@ const vlad = {
 | **School Management Suite** | MySQL-backed admin console for classes, documents, and grading—lean data models, strong role workflows.                                 |
 | **Node WebSocket Metrics**  | Node.js + WebSocket + Arduino/ESP32/MongoDB. Captures biometric sensor data, proving fluency with hardware-to-cloud pipelines.           |
 
-
 ---
-
-
 
 ## 📈 GitHub Analytics
 
